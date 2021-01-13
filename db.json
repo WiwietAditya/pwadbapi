@@ -1,0 +1,24 @@
+{
+"products" : [
+{"id":1,"nama":"F250","tahun":2011},
+{"id":2,"nama":"Sorento","tahun":2012},
+{"id":3,"nama":"Trans Sport","tahun":1994},
+{"id":4,"nama":"Mustang","tahun":1979},
+{"id":5,"nama":"Skyhawk","tahun":1986},
+{"id":6,"nama":"612 Scaglietti","tahun":2010},
+{"id":7,"nama":"Touareg","tahun":2004},
+{"id":8,"nama":"Amanti","tahun":2004},
+{"id":9,"nama":"Land Cruiser","tahun":2001},
+{"id":10,"nama":"CTS-V","tahun":2009},
+{"id":11,"nama":"Suburban 2500","tahun":2010},
+{"id":12,"nama":"9-3","tahun":2004},
+{"id":13,"nama":"Celica","tahun":1992},
+{"id":14,"nama":"DeVille","tahun":2003},
+{"id":15,"nama":"S-Type","tahun":2002},
+{"id":16,"nama":"Camry Hybrid","tahun":2008},
+{"id":17,"nama":"Regal","tahun":2001},
+{"id":18,"nama":"New Beetle","tahun":2003},
+{"id":19,"nama":"90","tahun":1995},
+{"id":20,"nama":"Jetta","tahun":2002}
+]
+}
